@@ -9,7 +9,7 @@
 
 <br>
 
-`edmonton`  ·  [`portfolio`](https://mawa.dev)  ·  [`email`](mailto:adam@argora.ai)  ·  [`linkedin`](https://www.linkedin.com/in/adam-jansen-9a20011b8/)
+`edmonton`  [`email`](mailto:adam@argora.ai)  ·  [`linkedin`](https://www.linkedin.com/in/adam-jansen-9a20011b8/)
 
 <br>
 
