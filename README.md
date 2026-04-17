@@ -17,6 +17,16 @@
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ajansen2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" height="160" />
+<img src="https://streak-stats.demolab.com?user=ajansen2&hide_border=true&background=FFFFFF00&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=555555" height="160" />
+
+<br>
+<br>
+
+---
+
+<br>
+
 ### S&nbsp;S&nbsp;2&nbsp;6&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;N&nbsp;O&nbsp;W&nbsp;&nbsp;&nbsp;S&nbsp;H&nbsp;I&nbsp;P&nbsp;P&nbsp;I&nbsp;N&nbsp;G
 
 <br>
