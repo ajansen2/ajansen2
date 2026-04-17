@@ -111,6 +111,5 @@ graphics, games, and the coursework that taught me to finish things —
 
 <br>
 
-*made in edmonton · edited while still wet.*
 
 </div>
